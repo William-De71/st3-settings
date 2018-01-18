@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"CodeFormatter",
+		"LiveReload"
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"CodeFormatter",
+		"Color Highlighter",
+		"Colorsublime",
+		"Emmet",
+		"Git",
+		"Git Config",
+		"LiveReload",
+		"LoremGibson",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme - Appbar",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeAStyleFormatter",
+		"Theme - Flatland",
+		"Theme - Seti Monokai",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
