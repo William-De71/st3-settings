@@ -1,8 +1,9 @@
 # Tout ignorer sauf le fichier .gitignore
 *
 !.gitignore
+!README.md
 
-#Garder le plugin Package Control uniquement
+# Garder le plugin Package Control uniquement
 !Installed Packages
 Installed Packages/*
 !Installed PAckage/Package Control.sublime-package
@@ -15,4 +16,5 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
-
+!Packages/User/*.sublime-snippet
+Packages/User/TextPastryHistory.sublime-settings
